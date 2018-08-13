@@ -8,7 +8,7 @@
 rlJournalStart
 
     rlPhaseStartTest
-        rlRun "echo /"HelloWorld/"" 0 "Print out HelloWorld"
+        #rlRun "echo /"HelloWorld/"" 0 "Print out HelloWorld"
     rlPhaseEnd
 
     rlJournalPrintText
